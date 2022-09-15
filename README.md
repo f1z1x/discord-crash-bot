@@ -10,7 +10,7 @@
 - Create your bot on https://discord.com/developers/applications/
 - Set your name and bot avatar
 - Go to the bot tab and set all the values as in the screenshot below
-- 
+-
 <a href="https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png">
     <img src="https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png" alt = "Example screenshot">
 </a>

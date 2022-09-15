@@ -10,7 +10,9 @@
 - Create your bot on https://discord.com/developers/applications/
 - Set your name and bot avatar
 - Go to the bot tab and set all the values as in the screenshot below
-<img alt = 'Example screenshot' src = "https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png">
+<a href="https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png">
+     <img src="https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png" alt = "Example screenshot">
+</a>
 - Click on the reset token button and copy it
 - Go to bot_config.py
 - Set your values

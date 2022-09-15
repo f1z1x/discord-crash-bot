@@ -11,6 +11,7 @@
 - Set your name and bot avatar
 - Go to the bot tab and set all the values as in the screenshot below
 <img alt = 'Example screenshot' src = 'https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png'/>
+- Click on the reset token button and copy it
 - Go to bot_config.py
 - Set your values
-- 
+- Run main.py

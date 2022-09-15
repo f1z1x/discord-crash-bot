@@ -6,8 +6,8 @@ from discord.ext import commands
 import bot_config
 
 bot = commands.Bot(command_prefix = bot_config.prefix, 
-                                      intents = discord.Intents.all(),
-                                      activity = discord.Game(name = bot_config.status))
+                   intents = discord.Intents.all(),
+                   activity = discord.Game(name = bot_config.status))
 bot.remove_command('help')
 
 

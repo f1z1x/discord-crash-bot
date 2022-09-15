@@ -16,6 +16,6 @@
 </a>
 
 - Click on the reset token button and copy it
-- Go to bot_config.py
+- Go to `bot_config.py`
 - Set your values
 - Run main.py

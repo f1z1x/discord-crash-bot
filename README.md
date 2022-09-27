@@ -1,7 +1,5 @@
 ### Simple and fast discord crash bot
 
----
-
 <b> Written in py-cord 2.1.3, threading and grequests for quick crash </b>
 
 ### How to use

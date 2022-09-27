@@ -2,7 +2,7 @@
 
 ---
 
-<p> Written in py-cord 2.1.3, threading and grequests for quick crash </p>
+<b> Written in py-cord 2.1.3, threading and grequests for quick crash </b>
 
 ### How to use
 

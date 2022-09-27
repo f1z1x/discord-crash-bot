@@ -12,7 +12,7 @@
 - Go to the bot page and set all the values as in the screenshot below
 
 <a href="https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png">
-    <img src="https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png" alt = "Example screenshot">
+    <img src="https://media.discordapp.net/attachments/1016297019184263208/1017793788258811975/unknown.png" alt = "Example screenshot" title = "Example">
 </a>
 
 - Click on the reset token button and copy it
